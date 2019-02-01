@@ -1,5 +1,7 @@
 <h1> Paris Metro Project </h1>
 
+(This academic project were done during my studies at DSTI)
+
 The goal is to pass in one day by all the metro stations in Paris. 
 We have to go at least once (though not necessarily one) by each of the Paris metro stations intramural, during a day.
 
