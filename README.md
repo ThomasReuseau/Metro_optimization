@@ -5,3 +5,5 @@ We have to go at least once (though not necessarily one) by each of the Paris me
 
 2 datasets are provided
 => The edges dataset & vertices dataset
+
+This problem were solved thanks to Dijkstra Algorithm which is an algorithm for finding the shortest paths between nodes in a graph.
